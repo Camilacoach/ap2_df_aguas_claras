@@ -1,0 +1,7 @@
+streamlit
+plotly.express
+Dash
+html
+dcc
+pandas
+matplotlib.pyplot
