@@ -1,7 +1,6 @@
 streamlit
 plotly
 Dash
-html
 dcc
 pandas
 matplotlib
